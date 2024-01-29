@@ -1,17 +1,30 @@
 # 计算搬桶学号
 
 #### 介绍
-计算搬桶学号，英文全称Calculate-Barrel-Moving-Student-ID，简称CBMSID，是用于计算当天需搬桶同学的学号的一款工具软件。于2023年3月18日发布。
+计算搬桶学号，英文全称Calculate-Barrel-Moving-Student-ID，简称CBMSID，是用于计算当天需搬桶同学的学号的一款工具软件。。
+
+类型：Windows控制台应用程序
+发布于2023年3月18日
+最新正式版本：1.3.1（手动固定式：无安装程序，手动将文件放入ProgramFiles并在桌面创建快捷方式，未写入注册表）
+最新测试版本：2.0  Beta（已终止）
+
+![软件图片](%E8%AE%A1%E7%AE%97%E6%90%AC%E6%A1%B6%E5%AD%A6%E5%8F%B7.png)
 
 #### 软件架构
+
 Windows x64架构，但也支持通过二次编译生成其它架构的程序。
 
 
 #### 开发环境
 
+Microsoft Windows11
 编辑器：Dev-C++ 5.11
 编译器：TDM-GCC 4.9.2
 语言版本：C++98
+
+#### 最初运行环境
+
+Microsoft Windows7
 
 #### 使用说明（见“点击index.exe以打开”）
 
